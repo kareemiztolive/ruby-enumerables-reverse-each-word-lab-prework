@@ -1,2 +1,2 @@
-do reverse_each_word
+do reverse_each_word(string)
 end
